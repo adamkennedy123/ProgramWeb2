@@ -1,6 +1,6 @@
 # ProgramWeb2
 
-PHP USE BOOSTRAP
+Codingan php menggunakan boostrap untuk penampilannya
 
 #HOME
 
